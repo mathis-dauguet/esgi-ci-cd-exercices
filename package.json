@@ -1,0 +1,22 @@
+{
+  "name": "esgi-ci-cd-exercices",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathis-dauguet/esgi-ci-cd-exercices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mathis-dauguet/esgi-ci-cd-exercices/issues"
+  },
+  "homepage": "https://github.com/mathis-dauguet/esgi-ci-cd-exercices#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.7",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
