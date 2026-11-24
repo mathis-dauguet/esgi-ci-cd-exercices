@@ -18,5 +18,9 @@
     "@types/node": "^26.6.7",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "build": "tsc --outDir dist src/index.ts",
+    "test": "node --test"
   }
 }
